@@ -1,0 +1,28 @@
+# Node.js
+node_modules/
+
+# React build folder (this is usually created when you run `npm run build`)
+build/
+
+# Logs
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE settings (optional, if you use an IDE like VSCode)
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosfile
+*.sln
+
+# Environment files
+.env
+
+# Coverage reports (if you're using code coverage tools)
+coverage/
